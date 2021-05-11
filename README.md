@@ -51,14 +51,5 @@ https://www.duchas.ie/en/info/team
 
 * Magan, M. (2018, March 17). **Ireland's darkest, oddest and weirdest secrets uncovered.** Retrieved from https://www.irishtimes.com/life-and-style/people/ireland-s-darkest-oddest-and-weirdest-secrets-uncovered-1.3418059
 
-* Hoel, E. (2017). **When the map is better than the territory**. 
-*Entropy*. 19(5), 188; doi: [10.3390/e19050188](https://www.mdpi.com/1099-4300/19/5/188).
-    + recent work making explicit connections between causal emergence 
-    and the channel capacity of a model.
-* Hoel, E., Albantakis, L., & Tononi, G. (2013). **Quantifying causal 
-emergence shows that macro can beat micro**. *Proceedings of the 
-National Academy of Sciences*. 110 (49) 19790-19795.
-doi: [10.1073/pnas.1314922110](https://www.pnas.org/content/110/49/19790).
-    + the first work to quantify causal emergence, showing how and why 
-    certain coarse-grained models can have more effective information.
-
+* Koay A., Shannon F., Sasse A., Heinrich M. and Sheridan H. (2020) **Exploring the Irish National Folklore Ethnography Database (Dúchas) for Open Data Research on Traditional Medicine Use in Post-Famine Ireland: An Early Example of Citizen Science.** *Front. Pharmacol.* 11:584595. doi: [10.3389/fphar.2020.584595](https://www.frontiersin.org/articles/10.3389/fphar.2020.584595/full).
+   + recent paper describing this as an early of citizen science
