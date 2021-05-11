@@ -1,4 +1,4 @@
-# irish-schools-collection
+# The Schools' Collection Dataset
 Fascinating text data tagged by topic, data collector (Irish children in the late 1930s), informant (the person they're interviewing), and location; data from from The Schools' Collection -- "a collection of folklore compiled by schoolchildren in Ireland in the 1930s." (https://www.duchas.ie/en/cbes)
 
 According to https://www.duchas.ie/en/info/cbe: "Approximately 740,000 pages (288,000 pages in the pupils’ original exercise books; 451,000 pages in bound volumes) of folklore and local tradition were compiled by pupils from 5,000 primary schools in the Irish Free State between 1937 and 1939."
