@@ -38,10 +38,16 @@ According to https://www.duchas.ie/en/info/cbe: "Approximately 740,000 pages (28
 
 
 <p align="center">
-<img src="example.png" alt="screenshot" width="85%"/>
+<img src="example.png" alt="screenshot1" width="85%"/>
 </p>
 
 **<p align="center">Screenshot of an example data entry.**
+
+<p align="center">
+<img src="example-json.png" alt="screenshot2" width="85%"/>
+</p>
+
+**<p align="center">Example json output.**
 
 ## Project Staff from The Dúchas Project
 
