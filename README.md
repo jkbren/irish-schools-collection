@@ -49,6 +49,13 @@ According to https://www.duchas.ie/en/info/cbe: "Approximately 740,000 pages (28
 
 **<p align="center">Example json output.**
 
+# Intro analyses: Example
+
+<p align="center">
+<img src="figs/pngs/schools_GreatFamine_1and2grams.png" alt="greatfamine" width="85%"/>
+</p>
+
+
 ## Project Staff from The Dúchas Project
 
 https://www.duchas.ie/en/info/team
