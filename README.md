@@ -56,6 +56,11 @@ According to https://www.duchas.ie/en/info/cbe: "Approximately 740,000 pages (28
 </p>
 
 
+<p align="center">
+<img src="figs/pngs/ireland_full_map.png" alt="map" width="85%"/>
+</p>
+
+
 ## Project Staff from The Dúchas Project
 
 https://www.duchas.ie/en/info/team
